@@ -1,1 +1,3 @@
 # Financial-Options-Valuation
+
+Individual investors have more investment options than they often realize. Options like” stock options” allow us to make money if the stock market is going up and it also causes loss if the stock market is going down. As the name suggests, options give you the option to buy or sell a security (stocks, extra-traded funds, indices, commodities etc.) at some point in the future. Our team has decided to forecast the stock market for the investors (our users) to make a wise decision. It is said that regardless of any technique, accurately forecasting stock market performance is more a matter of luck than technique. However, our team has decided to forecast the stock price using “Random walk” forecasting model.
